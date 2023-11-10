@@ -1,2 +1,2 @@
-# Tudo que eu pegar do Telegram vem pra ca
+# Tudo que eu pegar do Telegram vem pra esse repositorio
 <img src="https://www.albayan.ae/polopoly_fs/1.4334673.1640646336!/image/image.jpg">
